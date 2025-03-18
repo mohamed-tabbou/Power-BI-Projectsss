@@ -1,4 +1,4 @@
-[Power bi dashbaord](https://app.powerbi.com/view?r=eyJrIjoiYzMzOWMwZGQtYTE3NS00NTc5LWIyYzMtMzcxYzdhNzVhYjk5IiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9 "Project Progress Tracking – Power BI Dashboard")
+[Project Progress Tracking – Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzMzOWMwZGQtYTE3NS00NTc5LWIyYzMtMzcxYzdhNzVhYjk5IiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9)
 **Project Progress Tracking Dashboard – Power BI**
 
 **Project Overview:**
